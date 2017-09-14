@@ -1,0 +1,82 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  cd
+    4  pwd
+    5  pwd ~
+    6  cd ~
+    7  pwd
+    8  firefox &
+    9  ls
+   10  cd Desktop
+   11  pwd
+   12  cd
+   13  pew
+   14  pwd
+   15  mkdir loop
+   16  cd loop
+   17  pwd
+   18  echo privet
+   19  cat loop
+   20  pwd
+   21  uname -r
+   22  echo $0
+   23  cd 
+   24  pwd
+   25  cat loop
+   26  cd loop
+   27  cat
+   28  echo hello
+   29  cat hello
+   30  ls 
+   31  pwd
+   32  ls -la
+   33  lsb_release
+   34  cd
+   35  pwd
+   36  cd ..
+   37  pwd
+   38  cd .
+   39  pwd
+   40  cd user
+   41  pwd
+   42  cd home
+   43  pwd
+   44  rmdir pool
+   45  rmdir loop
+   46  history
+   47  echo $0
+   48  uname -r
+   49  lsb_release
+   50  ls
+   51  cd Desktop
+   52  pwd
+   53  cd ~
+   54  who
+   55  la -
+   56  ls -la
+   57  cd documents/
+   58  cd documentas
+   59  cd documents
+   60  cd Documents
+   61  man ls
+   62  cd .
+   63  cd ..
+   64  pwd
+   65  cd ..
+   66  cd
+   67  mkdir darbi
+   68  pwd
+   69  cd /
+   70  pwd
+   71  cd ~
+   72  pwd
+   73  mkdir darbi
+   74  rmdir darbi
+   75  mkdir darbi
+   76  pwd
+   77  ls
+   78  ls -a
+   79  ls -l
+   80  cd darbi
+   81  history
+   82  history > history.txt
