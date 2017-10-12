@@ -1,4 +1,4 @@
-    1  VirtualBox --startvm XP
+#    1  VirtualBox --startvm XP
     2  git clone https://github.com/VeraKuzmina1/DMI.git
     3  pwd
     4  firefox &
