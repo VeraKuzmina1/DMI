@@ -1,0 +1,52 @@
+    1  git clone https://github.com/VeraKuzmina1/DMI.git
+    2  pwd
+    3  cd DMI
+    4  pwd
+    5  nano space.sh
+    6  chmod 744 space.sh 
+    7  ./space.sh 
+    8  ./space.sh 1 2 3
+    9  nano space.sh
+   10  ./space.sh 1 2 3
+   11  nano space.sh
+   12  ./space.sh 1 2 3
+   13  nano space.sh
+   14  ./space.sh 1 2 3
+   15  nano space.sh
+   16  ./space.sh 1 2 3
+   17  ./space.sh 2 2 3
+   18  nano space.sh
+   19  ./space.sh 2 2 3
+   20  nano space.sh
+   21  ./space.sh 2 2 3
+   22  ./space.sh 45 2 3
+   23  ./space.sh 45 245 3
+   24  nano space.sh
+   25  ./space.sh 45 245 3
+   26  nano space.sh
+   27  ./space.sh 45 245 3
+   28  nano space.sh
+   29  ./space.sh 45 245 3
+   30  nano space.sh
+   31  ./space.sh 45 245 3
+   32  ./space.sh 450 245 3
+   33  ./space.sh 40 24 334
+   34  nano space.sh
+   35  ./space.sh 40 24 334
+   36  nano triangle.sh
+   37  chmod 744  triangle.sh
+   38  ./triangle.sh
+   39  ./triangle.sh 2 3 6
+   40  nano triangle.sh
+   41  ./triangle.sh 2 3 6
+   42  nano triangle.sh
+   43  ./triangle.sh 2 3 6
+   44  ./triangle.sh 4 3 6
+   45  ./triangle.sh 4 6 6
+   46  git-upload
+   47  nano git-upload
+   48  git-upload 20171018_19_00
+   49  git-upload 20171018
+   50  git-upload
+   51  nano git-upload
+   52  history > history_20171018.txt
