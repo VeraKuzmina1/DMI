@@ -30,17 +30,14 @@ fi
 
 if [ $a == $b -a $a == $c ]
 then
-echo "all numbers is equal"
-else
-if [ $a -gt $b -a $a -gt $c ]
+echo "all numbers are equal"
+elif [ $a -gt $b -a $a -gt $c ]
 then
 echo "a is the largest number"
-else
-if [ $b -gt $c ]
+elif [ $b -gt $c ]
 then
 echo "b is the largest number"
 else 
 echo "c is the largest number"
 fi
-fi
-fi
+

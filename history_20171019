@@ -1,0 +1,104 @@
+    1  VirtualBox --startvm XP
+    2* firefox 
+    3  git clone https://github.com/VeraKuzmina1/DMI.git
+    4  pwd
+    5  cd DMI
+    6  nano space.sh
+    7  nano numb.sh
+    8  nano dialogs.sh
+    9  chmod 744 dialogs.sh
+   10  ./dialogs.sh
+   11  nano dialogs.sh
+   12  ./dialogs.sh
+   13  cp dialogs.sh a_VS_b.sh
+   14  ls -l
+   15  nano a_VS_b.sh
+   16  ./a_VS_b.sh
+   17  ls -l
+   18  cp a_VS_b.sh pirmsk.sh
+   19  nano pirmsk.sh
+   20  ./pirmsk.sh
+   21  nano pirmsk.sh
+   22  ./pirmsk.sh
+   23  nano pirmsk.sh
+   24  ./pirmsk.sh
+   25  nano pirmsk.sh
+   26  ./pirmsk.sh
+   27  nano pirmsk.sh
+   28  ./pirmsk.sh
+   29  nano a_VS_b.sh 
+   30  ./a_VS_b.sh 
+   31  nano a_VS_b.sh 
+   32  nano pirmsk.sh 
+   33  if config; ifconfig
+   34  ifconfig
+   35  nano pirmsk.sh 
+   36  ./pirmsk.sh 
+   37  nano pirmsk.sh 
+   38  ./pirmsk.sh 
+   39  nano pirmsk.sh 
+   40  ./pirmsk.sh 
+   41  6000
+   42  ./pirmsk.sh 
+   43  nano pirmsk.sh 
+   44  nano a_VS_b.sh 
+   45  ./a_VS_b.sh 
+   46  nano a_VS_b.sh 
+   47  ./a_VS_b.sh 
+   48  nano a_VS_b.sh 
+   49  nano space.sh 
+   50  ./space.sh 
+   51  ./space.sh 60 7 4
+   52  ./space.sh 60 60 60
+   53  nano a_VS_b.sh 
+   54  nano pirmsk.sh 
+   55  ./pirmsk.sh 
+   56  nano pirmsk.sh 
+   57* 
+   58  nano pirmsk.sh 
+   59* 
+   60  nano pirmsk.sh 
+   61  ./pirmsk.sh 
+   62  nano pirmsk.sh 
+   63  ./pirmsk.sh 
+   64  nano pirmsk.sh 
+   65  ./pirmsk.sh 
+   66  nano pirmsk.sh 
+   67  ./pirmsk.sh 
+   68  nano pirmsk.sh 
+   69  ./pirmsk.sh 
+   70  nano pirmsk.sh 
+   71  ./pirmsk.sh 
+   72  nano pirmsk.sh 
+   73  ./pirmsk.sh 
+   74  nano pirmsk.sh 
+   75  ./pirmsk.sh 
+   76  nano pirmsk.sh 
+   77  ./pirmsk.sh 
+   78  nano pirmsk.sh 
+   79  ./pirmsk.sh 
+   80  nano pirmsk.sh 
+   81  ./pirmsk.sh 
+   82  nano pirmsk.sh 
+   83  history
+   84  nano git-upload
+   85  nano pirmsk.sh 
+   86  ./pirmsk.sh 
+   87  nano pirmsk.sh 
+   88  ./pirmsk.sh 
+   89  nano pirmsk.sh 
+   90  ./pirmsk.sh 
+   91  nano pirmsk.sh 
+   92  cp pirmsk.sh statistika.sh
+   93  ls -l
+   94  nano statistika.sh 
+   95  ./statistika.sh 
+   96  nano statistika.sh 
+   97  ./statistika.sh 
+   98  nano statistika.sh 
+   99  nano pirmsk.sh 
+  100  ./pirmsk.sh 
+  101  nano pirmsk.sh 
+  102  rmdir statistika.sh 
+  103  nano git-upload
+  104  history > history_20171019
