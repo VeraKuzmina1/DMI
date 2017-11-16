@@ -1,0 +1,75 @@
+#    1  VirtualBox --startvm XP
+    2  git clone https://github.com/VeraKuzmina1/DMI.git
+    3  pwd
+    4  firefox &
+    5  cd DMI
+    6  pwd
+    7  ls -l val.sh
+    8  cat shell_operators.sh > shell_operators_atkartoo
+    9  cat shell_operators.sh 
+   10  nano  shell_operators.sh 
+   11  nano  shell_operators_log.sh 
+   12  ./shell_operators_log.sh 5 5
+   13  chmod 744 shell_operators_log.sh
+   14  ls -l
+   15  ./shell_operators_log.sh 5 5
+   16  nano  shell_operators_log.sh 
+   17  ./shell_operators_log.sh 5 5
+   18  ./shell_operators_log.sh 5 6
+   19  nano  shell_operators_log.sh 
+   20  ./shell_operators_log.sh 5 6
+   21  nano  shell_operators_log.sh 
+   22  ./shell_operators_log.sh 5 6
+   23  nano  shell_operators_log.sh 
+   24  ./shell_operators_log.sh 5 6
+   25  nano  shell_operators_log.sh 
+   26  ./shell_operators_log.sh 5 6
+   27  nano  shell_operators_log.sh 
+   28  ./shell_operators_log.sh 5 6
+   29  ./shell_operators_log.sh 9 6
+   30  ./shell_operators_log.sh 5 6
+   31  nano  shell_operators_log.sh 
+   32  ./shell_operators_log.sh 5 6
+   33  nano  shell_operators_log.sh 
+   34  ./shell_operators_log.sh 5 6
+   35  ./shell_operators_log.sh 5 105
+   36  ./shell_operators_log.sh 506 105
+   37  nano  shell_operators_log.sh 
+   38  ./shell_operators_log.sh 506 105
+   39  nano  shell_operators_log.sh 
+   40  y
+   41  ./shell_operators_log.sh 506 105
+   42  ./shell_operators_log.sh 6 105
+   43  nano  shell_operators_log.sh 
+   44  ./shell_operators_log.sh 6 105
+   45  nano  shell_operators_log.sh 
+   46  ./shell_operators_log.sh 6 105
+   47  ./shell_operators_log.sh 101 105
+   48  nano  shell_operators_log.sh 
+   49  ./shell_operators_log.sh 101 105
+   50  nano  shell_operators_log.sh 
+   51  ./shell_operators_log.sh 101 105
+   52  ./shell_operators_log.sh 101 10
+   53  nano  shell_operators_log.sh 
+   54  ./shell_operators_log.sh 101 10
+   55  ./shell_operators_log.sh 101 103
+   56  nano  shell_operators_log.sh 
+   57  ./shell_operators_log.sh 101 103
+   58  nano  shell_operators_log.sh 
+   59  ./shell_operators_log.sh 101 103
+   60  nano  shell_operators_log.sh 
+   61  ./shell_operators_log.sh 101 103
+   62  nano  shell_operators_log.sh 
+   63  ./shell_operators_log.sh 101 103
+   64  nano  shell_operators_log.sh 
+   65  ./shell_operators_log.sh 101 103
+   66  nano  shell_operators_log.sh 
+   67* 
+   68  history > history_20171012
+   69  nano git-upload
+   70  pwd
+   71  ./git-upload
+   72  history > history_20171012.txt
+   73  ./git-upload
+   74  nano git-upload
+   75  history > history_20171012.txt

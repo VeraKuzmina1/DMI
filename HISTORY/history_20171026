@@ -1,0 +1,48 @@
+    1  VirtualBox --startvm XP
+    2  firefox 
+    3  git clone https://github.com/VeraKuzmina1/DMI.git
+    4  ls -l
+    5  cd DMI
+    6  ls -l
+    7  rm 2 100
+    8  ls -l
+    9  firefox
+   10  firefox &
+   11  rm shell_operators_atkartojums.sh
+   12  nano statistika.sh 
+   13  nano if.sh
+   14  chmod 744 if.sh
+   15  ./if.sh
+   16  ./if.sh -9
+   17  ./if.sh 9
+   18  nano if.sh
+   19  ./if.sh 9
+   20  ./if.sh -9
+   21  nano if.sh
+   22  ./if.sh -9
+   23  ./if.sh 9
+   24  nano if.sh
+   25  ./if.sh 9
+   26  ./if.sh -10
+   27  nano if.sh
+   28  ./if.sh -10
+   29  ./if.sh 0
+   30  nano if.sh
+   31  nano array_loop.sh
+   32  chmod 744 array_loop.sh
+   33  ./array_loop.sh 8 9 75 21
+   34  nano array_loop.sh
+   35  ./array_loop.sh 8 9 75 21
+   36  nano array_loop.sh
+   37  ./array_loop.sh 8 9 75 21
+   38  nano array_loop.sh
+   39  ./array_loop.sh 8 9 75 21
+   40  nano array_loop.sh
+   41  ./array_loop.sh 8 9 75 21
+   42  ./array_loop.sh 8 9 75 21 9 85 0 21 14
+   43  nano array_loop.sh
+   44  ./array_loop.sh 8 9 75 21 9 85 0 21 14
+   45  ./array_loop.sh 8 9 75
+   46  ./array_loop.sh 8
+   47  nano array_loop.sh
+   48  history > history_20171026
