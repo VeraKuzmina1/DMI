@@ -4,7 +4,7 @@ if [ $# == 1 ]
 then
 git config --global user.email seriousmail07@gmail.com
 git add .
-#git commit -m "20171213"
+#git commit -m "20171214"
 git commit -m $1
 git push origin master
 fi
