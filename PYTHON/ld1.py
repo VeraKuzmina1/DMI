@@ -10,11 +10,10 @@ a1 = a + 10
 
 while a <= a1:
  k = 1
+ print "%d"%(a),
  while k <= 5:
-  print "%d"%(a),
   c = a % k
   print "\t%d" %(c),
-  k = k + 1 
+  k = k + 1
  a = a + 1
- print "\n%d" %(a)
- print
+ print "\n"
