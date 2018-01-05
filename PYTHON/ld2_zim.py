@@ -13,10 +13,12 @@ def ld2(x,n):
 
  while k <= n:
   k = k + 1
-  R = (x**2)/4
+  R = (x**2)/(4*k*(k+1))
   S = S + a
   print "a%d = %6.2f\t S%d = %6.2f"%(k,a,k,S)
 
  return S
 
+plt.plot(x,n)
+plt.grid()
 plt.show()
