@@ -1,0 +1,41 @@
+    1  git clone https://github.com/VeraKuzmina1/DMI.git
+    2  ls -l
+    3  cdpwd
+    4  pwd
+    5  cd DMI
+    6  nano readonlyvar.sh
+    7  ./readonlyvar.sh
+    8  chmod 744 readonlyvar.sh 
+    9  ./readonlyvar.sh
+   10  unset NAME
+   11  ./readonlyvar.sh
+   12  nano readonlyvar.sh
+   13  ./readonlyvar.sh
+   14  unset NAME1
+   15  ./readonlyvar.sh
+   16  nano readonlyvar.sh
+   17  ./readonlyvar.sh
+   18  nano readonlyvar.sh
+   19  ./readonlyvar.sh
+   20  nano readonlyvar.sh
+   21  ./readonlyvar.sh
+   22  ./readonlyvar.sh 5 6
+   23  nano readonlyvar.sh
+   24  ./differentvar.sh
+   25  chmod 744 differentvar.sh
+   26  ./differentvar.sh
+   27  ./differentvar.sh 5 6
+   28  nano differentvar.sh
+   29  ./differentvar.sh 5 6
+   30  nano differentvar.sh
+   31  nano arrays.sh
+   32  ./arrays.sh 0
+   33  chmod 744arrays.sh
+   34  chmod 744 arrays.sh
+   35  ./arrays.sh 0
+   36  ./arrays.sh 2
+   37  nano arrays.sh
+   38  ./arrays.sh 
+   39  git-upload
+   40  nano git-upload
+   41  history > history20171015

@@ -1,0 +1,142 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/VeraKuzmina1/DMI.git
+    3  ls -l
+    4  cd DMI
+    5  cd PYTHON/
+    6  ls -l
+    7  cd ..
+    8  ls -l
+    9  mkdir BASH
+   10  ls -l
+   11  mv if.sh /BASH
+   12  mv if.sh BASH
+   13  ls -l
+   14  cd BASH
+   15  ls -l
+   16  mv array_loop.sh arrays.sh a_VS_b.sh dialogs.sh differentvar.sh pirmsk.sh BASH
+   17  mv array_loop.sh BASH
+   18  cd ..
+   19  mv array_loop.sh arrays.sh a_VS_b.sh dialogs.sh differentvar.sh pirmsk.sh BASH
+   20  ls -l
+   21  mv readonlyvar.sh shell_operators_log.sh shell_operators.sh shell_treninsh.sh space.sh statistika.sh triangle.sh val.sh BASH
+   22  ls -l
+   23  rmdir shell_operators_atkartojums.sh shell_operators_atkartoo
+   24  chmod 744 shell_operators_atkartojums.sh shell_operators_atkartoo
+   25  ls -l
+   26  rmdir shell_operators_atkartojums.sh shell_operators_atkartoo
+   27  rm shell_operators_atkartojums.sh shell_operators_atkartoo
+   28  ls -l
+   29  chmod 744 100 2
+   30  nano 100
+   31  nano 2
+   32  rm 100 2
+   33  ls -l
+   34  nano gmail
+   35  ./gmail
+   36  mkdir HISTORY
+   37  chmod 744 history history_20170921.txt history_20171005 history_20171012 history_20171012.txt history20171015 history_20171018.txt
+   38  mv 744 history history_20170921.txt history_20171005 history_20171012 history_20171012.txt history20171015 history_20171018.txt HISTORY
+   39  mv history history_20170921.txt history_20171005 history_20171012 history_20171012.txt history20171015 history_20171018.txt HISTORY
+   40  ls -l
+   41  chmod 744 history_20171019 history_20171026 history_20171102 history_20171102.txt  history_20171113 history_20171115 history.txt
+   42  mv history_20171019 history_20171026 history_20171102 history_20171102.txt  history_20171113 history_20171115 history.txt HISTORY
+   43  ls -l
+   44  cd HISTORY/
+   45  ls -l
+   46  cd ..
+   47  cd PYTHON/
+   48  ls -l
+   49  nano variables.py 
+   50* 
+   51  chmod 744 history_20171102 
+   52  mv  history_20171102 HISTORY
+   53  ls -l
+   54  nano HISTORY 
+   55  mv HISTORY ..
+   56  mv HISTORY /..
+   57  mv HISTORY DMI
+   58  cd ..
+   59  mv HISTORY history
+   60  ls -l
+   61  mv history HISTORY
+   62  cd PYTHON/
+   63  ls -l
+   64  nano DMI
+   65  mv DMI history
+   66  ls -l
+   67  mv history /DMI
+   68  mv history ../
+   69  ls -l
+   70  cd DMI
+   71  cd ..
+   72  ls -l
+   73  mv history HISTORY
+   74  ls -l
+   75  cd PYTHON/
+   76  ls -l
+   77  mv saskpy.py saskait.py
+   78  nano sin_caur_summu.py
+   79  mv sin_caur_summu.py sin_caur_summu1.py 
+   80  nano sin_caur_summu1.py
+   81  ./sin_caur_summu1.py
+   82  python sin_caur_summu1.py 
+   83  nano sin_caur_summu1.py
+   84  python sin_caur_summu1.py 
+   85  nano sin_caur_summu1.py
+   86  python sin_caur_summu1.py 
+   87  nano sin_caur_summu1.py
+   88  python sin_caur_summu1.py 
+   89  nano sin_caur_summu1.py
+   90  python sin_caur_summu1.py 
+   91  nano sin_caur_summu1.py
+   92  cp sin_caur_summu1.py sin_caur_summu2.py 
+   93  cd ..
+   94  ls -l
+   95  cd BASH
+   96  ls -l
+   97  cd ..
+   98  cd HISTORY/
+   99  ls -l
+  100  cd ..
+  101  cd PYTHON/
+  102  ls -l
+  103  cd ..
+  104  mv BASH SHELL
+  105  ls -l
+  106  cd PYTHON/
+  107  ls -l
+  108  nano sin_caur_summu2.py 
+  109  python sin_caur_summu2.py 
+  110  nano sin_caur_summu2.py 
+  111  python sin_caur_summu2.py 
+  112  3.64
+  113  python sin_caur_summu2.py 
+  114  nano sin_caur_summu2.py 
+  115  cp sin_caur_summu2.py sin_caur_summu3.py
+  116  nano sin_caur_summu3.py 
+  117  python sin_caur_summu3.py 
+  118  nano sin_caur_summu3.py 
+  119  python sin_caur_summu3.py 
+  120  nano sin_caur_summu3.py 
+  121  cp sin_caur_summu3.py sin_caur_summu4.py
+  122  nano sin_caur_summu4.py 
+  123  python sin_caur_summu4.py 
+  124  nano sin_caur_summu4.py 
+  125  python sin_caur_summu4.py 
+  126  nano sin_caur_summu4.py 
+  127  python sin_caur_summu4.py 
+  128  nano sin_caur_summu4.py 
+  129  cp sin_caur_summu4.py sin_caur_summu5.py
+  130  nano sin_caur_summu5.py 
+  131  python sin_caur_summu5.py 
+  132  nano sin_caur_summu5.py 
+  133  python sin_caur_summu5.py 
+  134  cp sin_caur_summu5.py sin_caur_summu.py
+  135  nano sin_caur_summu.py 
+  136  python sin_caur_summu5.py 
+  137  python sin_caur_summu.py 
+  138  nano sin_caur_summu.py 
+  139  python sin_caur_summu.py 
+  140  nano sin_caur_summu.py 
+  141  cd ..
+  142  history > history_20171116.txt

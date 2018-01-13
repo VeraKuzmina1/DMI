@@ -1,0 +1,126 @@
+    1  VirtualBox --startvm XP
+    2  nano
+    3  ls -l
+    4  cat git-download.sh 
+    5  git-download
+    6  echo $PATH
+    7  cat /bin/ls
+    8  ls -l
+    9  pwd
+   10  echo $PATH
+   11  PATH=$PATH:/home/user
+   12  $PATH
+   13  /bin/ls
+   14  ~/gitdownload/sh
+   15  ~/gitdownload.sh
+   16  ~/git-download.sh
+   17  git-download.sh
+   18  ls -l
+   19  ls -l /bin/ls
+   20  chmood 744 git-download.sh
+   21  ls -l
+   22  chmod 744 git-download.sh
+   23  ls -l
+   24  git-download.sh
+   25  ls -l
+   26  mv git-download.sh git-download
+   27  ls -l
+   28  cd DMI
+   29  ls -la
+   30  cp ../git-download ./
+   31  ls -la 
+   32  nano git-upload
+   33  ls -l
+   34  cat git-upload
+   35  git-upload-
+   36  git-upload
+   37  history > history_20170921.txt 
+   38  ls -l
+   39  git-upload.sh
+   40  /git-upload.sh
+   41  nano
+   42  echo $PATH
+   43  ~/git-upload.sh
+   44  history
+   45  cat git-upload.sh
+   46  PATH=$PATH:/home/user
+   47  $PATH
+   48  pwd
+   49  /bin/ls
+   50  echo $PATH
+   51  PATH=$PATH:/home/user
+   52  $PATH
+   53  /bin/ls
+   54  ~/git-upload
+   55  cp ../git-upload ./
+   56  pwd
+   57  ls -l
+   58  chmod 744 git-upload.sh
+   59  git-upload.sh
+   60  pwd
+   61  echo $PATH
+   62  PATH=$PATH:/home/user/DMI
+   63  git-upload
+   64  chmod744 git-upload
+   65  chmod744 git-upload.sh
+   66  chmod 744 git-upload
+   67  ls -l
+   68  git-upload
+   69  nano git-upload
+   70  nano history_20170921.txt 
+   71  cat git-download 
+   72  history
+   73  nano
+   74  nano git-upload
+   75  nano git-download 
+   76  nano history
+   77  nano history.txt
+   78  nano git-upload.sh
+   79  DMI
+   80  nano DMI
+   81  pwd history.
+   82  nano history.txt
+   83  nano history
+   84  nano history_20170921.txt 
+   85  history_20170921.txt
+   86  chmood 744 history_20170921.txt 
+   87  nano history_20170921.txt 
+   88  cat history_20170921.txt 
+   89  nano history_20170921.txt 
+   90  nano gmail
+   91  ls -l
+   92  cat gmail
+   93  gmail
+   94  chmod 744 gmail
+   95  gmail
+   96  nano gmail
+   97  gmail
+   98  nano gmail
+   99  gmail
+  100  nano history_20170921.txt 
+  101  nano gmail
+  102  _LAI
+  103  NAME = "HI"
+  104  2_VAR
+  105  _ALI=10
+  106  echo $_ALI
+  107  mainigais=5
+  108  echo mainigais
+  109  echo$ mainigais
+  110  echo $mainigais
+  111  mainigais="hi"
+  112  echo $mainigais
+  113  mainigais=2.5
+  114  echo $mainigais
+  115  nano shell_treninsh.sh
+  116  ls -l
+  117  ./shell_treninsh.sh
+  118  chmod 744 shell_treninsh.sh
+  119  ls -l
+  120  ./shell_treninsh.sh
+  121  cat shell_treninsh.sh 
+  122  ./shell_treninsh.sh 
+  123  echo $NAME
+  124  nano shell_treninsh.sh
+  125  cat shell_treninsh.sh 
+  126  history > history_20170921.txt 

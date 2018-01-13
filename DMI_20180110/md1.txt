@@ -1,0 +1,29 @@
+cat – nolāsīt failu
+cal - parada kalendaru
+cd - pārvietošanas operators
+cd / - iziet sakņu apgabalā
+cd .. - pariet atpakal
+chmod 744 - iegūt tiesības, lai strādāt ar failu
+cp - kopēt kaut kādu failu
+date - parada datumu
+echo – atspoguļo uzrakstīto tekstu
+echo $mainiga_nosaukums - atspoguļot mainīgas vērtību
+echo > - pārvieto tekstu uz noradīto failu
+git add - pievieno izmainas github direktorija
+git config--global user.email - lai ielogoties githuba
+git push origin master - augsupielade github
+history – parādīja vēsturi
+ls - failu saraksts šājā direktorijā
+ls -a - pilnais dokumentu saraksts šājā direktorijā
+ls -la - pilnais dokumentu saraksts ar detalizāciju šājā direktorijā
+mainiga_nosaukums=mainiga_vertiba - ievest/parmainīt mainīgo
+man - operanta apraksts
+mkdir - izvedot failu
+mv - pārdēvēt failu
+nano - teksta redaktors
+PATH - mainīga, kur ir katalogi, kuros atrodas izpildāmie faili
+pwd - uzzināt, kur atrodamies
+rmdir - dzest failu
+whereis - kur atrodās kaut kāds fails
+who - kas arī strādā šajā sistēmā
+whoami - lietotāja vārds

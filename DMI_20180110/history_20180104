@@ -1,0 +1,74 @@
+    1  su rooto
+    2  su root
+    3  sudo root
+    4  sudo_root
+    5  idle &
+    6  sudo apt install idle
+    7  idle &
+    8  sudo apt-get install python-matplotlib
+    9  sudo apt-get install python-numpy
+   10  git clone https://github.com/VeraKuzmina1/DMI.git
+   11  sudo apt-get install git
+   12  git clone https://github.com/VeraKuzmina1/DMI.git
+   13  ls-l
+   14  ls -l
+   15  cd DMI
+   16  ls -l
+   17  cd SHELL/
+   18  ls -
+   19  ls -l
+   20  cd ..
+   21  ls -l
+   22  cd SHELL/
+   23  ls -l
+   24  cd ..
+   25  cd PYTHON/
+   26  ls -l
+   27  nano ld1.py
+   28  python ld1.py
+   29  idle &
+   30  nano ld1.py
+   31  python ld1.py
+   32  nano ld1.py
+   33  python ld1.py
+   34  nano ld1.py
+   35  python ld1.py
+   36  nano ld1.py
+   37  python ld1.py
+   38  nano ld1.py
+   39  python ld1.py
+   40  nano ld1.py
+   41  python ld1.py
+   42  nano ld1.py
+   43  python ld1.py
+   44  nano ld1.py
+   45  python ld1.py
+   46  nano ld1.py
+   47  python ld1.py
+   48  nano ld1.py
+   49  python ld1.py
+   50  nano ld1.py
+   51  python ld1.py
+   52  nano ld1.py
+   53  python ld1.py
+   54  nano ld1.py
+   55  python ld1.py
+   56  nano ld1.py
+   57  python ld1.py
+   58  nano ld1.py
+   59  python ld1.py
+   60  idle &
+   61  python ld.py
+   62  nano ld2.py
+   63  python ld2.py
+   64  idle &
+   65  python ld2.py
+   66  nano ld2.py
+   67  python  ld2.py
+   68  python ld2.py
+   69  nano ld2.py
+   70  python ld2.py
+   71  nano ld2.py
+   72  python ld2.py
+   73  cd ..
+   74  history > histrory_20170104
