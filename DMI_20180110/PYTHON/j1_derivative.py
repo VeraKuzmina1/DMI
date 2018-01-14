@@ -3,21 +3,21 @@ import matplotlib.pyplot as plt
 
 def mans_j1(x):
   k = 0
-  a = -( x**3) / 16
+  a = 1.
   S = a
   while k<500:
     k = k + 1
-    R = (x**2)/(4*k*(k+1))
+    R = -(x**2)/(4*k*(k+1))
     a = a * R
     S = S + a
-  return S
+  return S*x/2
 
 a = 0
 b = 3 * np.pi
-x = np.arange(a,b,0.5)
+x = np.arange(a,b,0.05)
 y = mans_j1(x)
 
-plt.plot(x,y)
+plt.plot(x,y,'g')
 plt.grid()
 #plt.show()
 
@@ -32,8 +32,7 @@ for i in range(n-1):
    print y_prim
    y_prim.append(delta_y / delta_x)
 
-plt.plot(x[:n-1],y_prim)
-#plt.show()
+plt.plot(x[:n-1],y_prim,'b')
 
 
 n = len(x)
@@ -45,6 +44,5 @@ for i in range(n-2):
    y_2_prim.append(delta_y_prim / delta_x)
 
    
-plt.plot(x[:n-1],y_prim)
-plt.plot(x[:n-2],y_2_prim)
+plt.plot(x[:n-2],y_2_prim,'r')
 plt.show()
