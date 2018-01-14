@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Input a"
  read a
-echo "Input b:"
+echo "Input b"
  read b
 if [ $a -eq $b ]
 then

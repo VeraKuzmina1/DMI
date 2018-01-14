@@ -11,7 +11,7 @@ else
 if [ `expr $AB + $AC` -lt $BC ]
 then
 echo "triangle doesn't exist"
-else 
+else
 echo "triangle exists"
 fi
 fi
