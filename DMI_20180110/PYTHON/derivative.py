@@ -14,7 +14,7 @@ def mans_sinuss(x):
 
 a = 0
 b = 3 * np.pi
-x = np.arange(a,b,0.5)
+x = np.arange(a,b,0.01)
 y = mans_sinuss(x)
 
 plt.plot(x,y)
@@ -35,15 +35,14 @@ for i in range(n-1):
 plt.plot(x[:n-1],y_prim)
 #plt.show()
 
+n = len(x)
 y_2_prim = []
-for i in range(n-1):
-   print i, x[i], y[i],
-   delta_y_prim = delta_y[i+1] - delta_y[i]
+for i in range(n-2):
+   #print i, x[i], y[i],
+   delta_y_prim = y_prim[i+1] - y_prim[i]
    delta_x = x[i+1] - x[i]
-   y_2_prim = delta_y_prim / delta_x
-   print delta_y_prim
    y_2_prim.append(delta_y_prim / delta_x)
 
    
-plt.plot(x[:n-1],y_2_prim)
+plt.plot(x[:n-2],y_2_prim)
 plt.show()
