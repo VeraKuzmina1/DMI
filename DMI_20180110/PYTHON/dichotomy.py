@@ -1,3 +1,6 @@
+#-*- coding: utf-8 -*-
+
+from numpy import sin, arange
 
 a = 1.57
 b = 4.71
