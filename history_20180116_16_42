@@ -1,0 +1,55 @@
+    1  VirtualBox --startvm XP
+    2  python
+    3  su sc
+    4  python3 
+    5  python3m
+    6  idle
+    7  su sc
+    8  python
+    9  ls -l
+   10  import j1_dichotomy.png
+   11  ls -l
+   12  python j1_funkcija.py 
+   13  import j1_funkcija.png
+   14  rm j1_funkcija.png 
+   15  import j1_funkcija.png
+   16  rm j1_funkcija.png 
+   17  import j1_funkcija.png
+   18  nano j1_funkcija.py 
+   19  python j1_funkcija.py 
+   20  import j1_funkcija.png
+   21  python sin_caur_summu.py 
+   22  nano j1_funkcija.py 
+   23  nano sin_caur_summu.py 
+   24  nano j1_funkcija.py 
+   25  nano sin_caur_summu.py 
+   26  python sin_caur_summu.py 
+   27  nano sin_caur_summu.py 
+   28  python sin_caur_summu.py 
+   29  import sin_funkcija.png
+   30  python sin_caur_summu.py 
+   31  import sin_funkcija.png
+   32  ls -l
+   33  mv dichotomy.png sin_dichotomy.png
+   34  rm dichotomy.pyc
+   35  cd .
+   36  cd ..
+   37  history > history_20180116_16_25
+   38  nano git-upload 
+   39  ./git-upload 20180116_16_25
+   40  cd DMI_20180110/
+   41  cd FINAL/
+   42  nano index.html 
+   43  import sin_dichotomy.png
+   44  nano index.html 
+   45  ls -l
+   46  cd ..
+   47  cd P
+   48  cd PYTHON/
+   49  ls -l
+   50  rm sin_dichotomy.png 
+   51  cd ..
+   52  cd FINAL/
+   53  nano index.html 
+   54  cd ..
+   55  history > history_20180116_16_42
