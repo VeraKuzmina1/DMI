@@ -1,5 +1,25 @@
 # -*- coding: utf-8 -*-
 from math import sin
+
+print "y(x) = sin(x)"
+print "            00"
+print "         --------"
+print "         \ "
+print "          \         x^(2n+1) "
+print "           \(-1)^n ----------"
+print "sin(x) =   /        (2n+1)!"
+print "          /"
+print "         /"
+print "        ---------"
+print "             n = 0"
+
+print "                "
+print "     -(x^2)"
+print "R = ---------"
+print "     2k(2k+1)"
+
+
+
 x = 1. * input("Ievadi argumentu (x): ")
 y = sin(x)
 print "sin(%.2f)=%.2f"%(x,y)

@@ -9,7 +9,7 @@ funa = sin(a)
 funb = sin(b)
 
 if funa * funb > 0:
-    print "Inetrvālā [%.2f,%.2f] sākņu nav vai ..."%(a,b)
+    print "Intervālā [%.2f,%.2f] sākņu nav vai ..."%(a,b)
     exit
 
 delta_x = 1.e-3
