@@ -1,0 +1,27 @@
+    1  cd DMI/
+    2  cd DMI_20180110/
+    3  cd FINAL/
+    4  nano index.html 
+    5  ls -l
+    6  nano index.html 
+    7  cd ..
+    8  ls -l
+    9  cd FINAL/
+   10  nano index.html 
+   11  cd ..
+   12  ls -l
+   13  cd FINAL/
+   14  nano index.html 
+   15  nano index1.html 
+   16  cd ..
+   17  rm -rf DMI
+   18  git clone https://github.com/VeraKuzmina1/DMI
+   19  cd DMI
+   20  cd DMI_20180110/
+   21  cd FINAL/
+   22  nano index.html 
+   23  cd ..
+   24  cd /DMI/
+   25  cd /DMI
+   26  cd ..
+   27  history > history_20180124
