@@ -1,0 +1,55 @@
+    1  ls -l
+    2  cd DMI
+    3  ls -l
+    4  cd DMI_20180110/
+    5  ls -l
+    6  cd SHELL/
+    7  nano statistika.sh 
+    8  cd DMI
+    9  cd DMI/
+   10  cd ..
+   11  cd SMI
+   12  cd DMI
+   13  ls -l
+   14  cd ..
+   15  cd SHELL/
+   16  nano statistika.sh 
+   17  ./statistika.sh 
+   18  nano statistika.sh 
+   19  ./statistika.sh 
+   20  nano statistika.sh 
+   21  ls -l
+   22  nano statistika.sh 
+   23  ./statistika.sh 
+   24  nano statistika.sh 
+   25  import statistika.png
+   26  nano statistika.sh 
+   27  ./statistika.sh 
+   28  rm statistika.png 
+   29  import statistika.png
+   30  cd ~/
+   31  cd DMI
+   32  cd DMI_20180110/
+   33  cd PYTHON/
+   34  ls -l
+   35  rm history_20171*
+   36  nano saskait.py 
+   37  nano saskpy.py 
+   38  cd ..
+   39  ls -l
+   40  rm history*
+   41  ls -l
+   42  cd FINAL/
+   43  nano in
+   44  nano index.html 
+   45  cd ~/
+   46  cd DMI
+   47  history > history_20180125_11_35
+   48  nano git-upload 
+   49  ./git-upload 20180125_11_35
+   50  cd DMI_20180110/
+   51  cd FINAL/
+   52  nano index.html 
+   53  cd ~/
+   54  cd DMI
+   55  history > history_20180125_11_39
