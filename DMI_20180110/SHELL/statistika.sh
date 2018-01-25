@@ -51,137 +51,96 @@ fi
 
 
 #--------
-
 #videja vertiba
+
 sum=`expr $a + $b + $c`
 vid=`expr $sum / 3`
 echo "Average value is $vid"
 
 
 #--------
-#mediana
-if [ $a -gt $b -a $a -gt $c -a $c -gt $b ]
-then
- min=$b
- mid=$c
- max=$a
-elif [ $b -gt $a -a $b -gt $c -a $c -gt $a ]
-then
- min=$a
- mid=$c
- max=$b
-elif [ $c -gt $a -a $c -gt $b -a $a -lt $b ]
-then
- min=$a
- mid=$b
- max=$c
-elif [ $a == $b -a $a -gt $c ]
-then
- min=$c
- mid=$b
- max=$a
-elif [ $a == $c -a $a -gt $b ]
-then
- min=$b
- mid=$a
- max=$c
-elif [ $b == $c -a $b -gt $a ]
-then
- min=$a
- mid=$b
- max=$c
-elif [ $a -lt $b -a $b -gt $c ]
-then
- min=$c
- mid=$a
- max=$b
-elif [ $a -gt $b -a $b -gt $c ]
-then
- min=$c
- mid=$b
- max=$a
-elif [ $a == $c -a $a == $b ]
-then
- min=$a
- mid=$b
- max=$c
-elif [ $a -gt $b -a $b -lt $c ]
-then
- min=$b
- mid=$a
- max=$c
-
-fi
-echo "Mediana is "$mid
-
-#--------
 #moda
+
 if [ $a == $b ]
 then
- echo "Moda is $a"
+ echo "Mode is $a"
 elif [ $c == $b ]
 then
- echo "Moda is $b"
+ echo "Mode is $b"
 elif [ $a == $c ]
 then
- echo "Moda is $c"
+ echo "Mode is $c"
 else
- echo "No moda"
+ echo "No mode"
 fi
 
-#--------4
-#sakartosana
-if [ $a -gt $b -a $a -gt $c -a $c -gt $b ]
+#--------
+#sakartosana un mediana
+
+if [ $a -gt $b -a $a -gt $c -a $b -gt $c ]
 then
- min=$b
- mid=$c
- max=$a
-elif [ $b -gt $a -a $b -gt $c -a $c -gt $a ]
-then
- min=$a
- mid=$c
- max=$b
-elif [ $c -gt $a -a $c -gt $b -a $a -lt $b ]
-then
- min=$a
- mid=$b
- max=$c
-elif [ $a == $b -a $a -gt $c ]
-then
- min=$c
- mid=$b
- max=$a
-elif [ $a == $c -a $a -gt $b ]
-then
- min=$b
- mid=$a
- max=$c
-elif [ $b == $c -a $b -gt $a ]
-then
- min=$a
- mid=$b
- max=$c
-elif [ $a -lt $b -a $b -gt $c ]
-then
- min=$c
- mid=$a
- max=$b
-elif [ $a -gt $b -a $b -gt $c ]
-then
- min=$c
- mid=$b
- max=$a
-elif [ $a == $c -a $a == $b ]
-then
- min=$a
- mid=$b
- max=$c
-elif [ $a -gt $b -a $b -lt $c ]
-then
- min=$b
- mid=$a
- max=$c
+ min=$c;mid=$b; max=$a;
 fi
 
+if  [ $a -gt $b -a $a -gt $c -a $c -gt $b ]
+then
+ min=$b; mid=$c; max=$a;
+fi
 
+if [ $b -gt $a -a $b -gt $c -a $a -gt $c ]
+then
+ min=$c; mid=$a; max=$b;
+fi
+
+if [ $b -gt $a -a $b -a $c -a $c -gt $a ]
+then
+ min=$a; mid=$c; max=$b;
+fi
+
+if  [ $c -gt $a -a $c -gt $b -a $a -gt $b ]
+then
+ min=$b; mid=$a; max=$c;
+fi
+
+if [ $c -gt $a -a $c -gt $b -a $b -gt $a ]
+then
+ min=$a; mid=$b; max=$c;
+fi
+
+if [ $a == $b -a $a -gt $c ]
+then
+ min=$c; mid=$b; max=$a;
+fi
+
+if [ $a == $b -a $a -lt $c ]
+then
+ min=$a; mid=$b; max=$c;
+fi
+
+if [ $a == $c -a $a -gt $b ]
+then
+ min=$b; mid=$c; max=$a;
+fi
+
+if [ $a == $c -a $a -lt $b ]
+then
+ min=$b; mid=$c; max=$a;
+fi
+
+if [ $c == $b -a $a -gt $c ]
+then
+ min=$c; mid=$b; max=$a;
+fi
+
+if [ $c == $b -a $a -lt $c ]
+then
+ min=$a; mid=$b; max=$c;
+fi
+
+if [ $a == $b -a $a == $c -a $b == $c ]
+then
+ min=$c; mid=$b; max=$a;
+fi
+
+echo "Median is " $mid
 echo "Right order is" $min $mid $max

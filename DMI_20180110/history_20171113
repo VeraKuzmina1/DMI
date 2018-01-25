@@ -1,6 +1,0 @@
-    1  git-clone https://github.com/VeraKuzmina1/DMI.git
-    2  gitclone https://github.com/VeraKuzmina1/DMI.git
-    3  git clone https://github.com/VeraKuzmina1/DMI.git
-    4  cd DMI
-    5  nano md1.txt
-    6  history > history_20171113
