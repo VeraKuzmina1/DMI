@@ -1,0 +1,120 @@
+    1  ls -l
+    2  cd DMI
+    3  ls -l
+    4  cd DMI_20180110/
+    5  ls -l
+    6  cd SHELL/
+    7  nano statistika.sh 
+    8  cd DMI
+    9  cd DMI/
+   10  cd ..
+   11  cd SMI
+   12  cd DMI
+   13  ls -l
+   14  cd ..
+   15  cd SHELL/
+   16  nano statistika.sh 
+   17  ./statistika.sh 
+   18  nano statistika.sh 
+   19  ./statistika.sh 
+   20  nano statistika.sh 
+   21  ls -l
+   22  nano statistika.sh 
+   23  ./statistika.sh 
+   24  nano statistika.sh 
+   25  import statistika.png
+   26  nano statistika.sh 
+   27  ./statistika.sh 
+   28  rm statistika.png 
+   29  import statistika.png
+   30  cd ~/
+   31  cd DMI
+   32  cd DMI_20180110/
+   33  cd PYTHON/
+   34  ls -l
+   35  rm history_20171*
+   36  nano saskait.py 
+   37  nano saskpy.py 
+   38  cd ..
+   39  ls -l
+   40  rm history*
+   41  ls -l
+   42  cd FINAL/
+   43  nano in
+   44  nano index.html 
+   45  cd ~/
+   46  cd DMI
+   47  history > history_20180125_11_35
+   48  nano git-upload 
+   49  ./git-upload 20180125_11_35
+   50  cd DMI_20180110/
+   51  cd FINAL/
+   52  nano index.html 
+   53  cd ~/
+   54  cd DMI
+   55  history > history_20180125_11_39
+   56  nano git-upload 
+   57  ./git-upload 20180125_11_39
+   58  cd DMI_20180110/
+   59  cd FINAL/
+   60  nano index.html 
+   61  ssh -X x171REB084@213.175.92.22
+   62  cd ~/
+   63  cd DMI
+   64  ssh -X x171REB084@213.175.92.22
+   65  scp x171REB084@213.175.92.22:~/darbi/L1C/ /DMI
+   66  scp x171REB084@213.175.92.22:~/darbi/L1C /DMI
+   67  scp ~/darbi/L1C x171REB084@213.175.92.22:/DMI
+   68  scp ~/darbi/L1C/ x171REB084@213.175.92.22:/DMI
+   69  scp x171REB084@213.175.92.22:~/darbi/L1C/meta.bin /DMI
+   70  scp x171REB084@213.175.92.22:~/darbi/L1C/meta.bin /DMI/
+   71  scp x171REB084@213.175.92.22:~/darbi/L1C/meta.bin ~/DMI/
+   72  ls -l
+   73  rm hi*
+   74  scp x171REB084@213.175.92.22:~/darbi/L1C/data.bin ~/DMI/
+   75  scp x171REB084@213.175.92.22:~/darbi/L1C/dekod.py ~/DMI/
+   76  mkdir DECRYPT
+   77  mv meta.bin data.bin dekod.py ~/DEKRYPT
+   78  mv meta.bin data.bin dekod.py ~/DMI/DEKRYPT
+   79  mv meta.bin data.bin dekod.py ~/DMI/DEcRYPT
+   80  mv meta.bin data.bin dekod.py ~/DMI/DECRYPT
+   81  cd DECRYPT/
+   82  ls -l
+   83  python dekod.py 
+   84  import dekod.png
+   85  rm dekod.png
+   86  python dekod.py 
+   87  nano dekod.py 
+   88  python dekod.py 
+   89  nano dekod.py 
+   90  python dekod.py 
+   91  import dekod.png
+   92  rm dekod.png 
+   93  nano dekod.py 
+   94  python dekod.py 
+   95  nano dekod.py 
+   96  python dekod.py 
+   97  nano dekod.py 
+   98  y
+   99  nano dekod.py 
+  100  python dekod.py 
+  101  nano dekod.py 
+  102  python dekod.py 
+  103  nano dekod.py 
+  104  python dekod.py 
+  105  ls -l
+  106  import dekod.png
+  107  rm dekod.png
+  108  import dekod.png
+  109  rm dekod.png
+  110  import dekod.png
+  111  cd ..
+  112  history > history_20180125_14_00
+  113  nano git-upload 
+  114  ./git-upload 20180125_14_00
+  115  cd DMI_20180110/
+  116  cd FINAL/
+  117  nano index.html 
+  118  cd ~/
+  119  cd DMI
+  120  history > history_20180125_14_05
